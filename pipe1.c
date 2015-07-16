@@ -1,6 +1,6 @@
 /*
  * pipe.c -- fifo driver for scull
- *
+ * change of case of a particular word is implemented here
  * Copyright (C) 2001 Alessandro Rubini and Jonathan Corbet
  * Copyright (C) 2001 O'Reilly & Associates
  *
